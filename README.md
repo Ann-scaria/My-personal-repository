@@ -1,1 +1,2 @@
-# My-personal-repository
+- 👋 Hi, I’m @Ann-scaria
+- 🌱 I’m currently learning computer science
